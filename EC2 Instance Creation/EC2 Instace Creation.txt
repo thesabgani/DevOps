@@ -1,0 +1,9 @@
+We can create an instance using the following command
+
+aws ec2 run-instances --image-id ami-##### --instance-type t2.micro --key-name ###.pem
+
+To check the instances in our account
+
+Here is the command aws ec2 describe-instances --region us-east-1
+
+To delete instance-aws ec2 terminate-instances --instance-ids i-######
