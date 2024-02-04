@@ -7,3 +7,5 @@ To check the instances in our account
 Here is the command aws ec2 describe-instances --region us-east-1
 
 To delete instance-aws ec2 terminate-instances --instance-ids i-######
+
+Trying to push git again
